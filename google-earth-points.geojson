@@ -1,0 +1,2225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72701849388777,
+                    37.97521429776868,
+                    64.51439149054023
+                ]
+            },
+            "properties": {
+                "name": "1",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "00BD3CCE5F38E36D850E"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72692522596496,
+                    37.97526952776666,
+                    64.28999508528928
+                ]
+            },
+            "properties": {
+                "name": "2",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "048119071138E370D274"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72682024135915,
+                    37.97506969945294,
+                    64.4409350632732
+                ]
+            },
+            "properties": {
+                "name": "3",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09A25C208638E3711713"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72728837912502,
+                    37.97441394902751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "4",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "02EE88449038F6D532C0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7271131619709,
+                    37.9742956883118,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "5",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "03A22E37EF38F6D5877E"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72657978863416,
+                    37.97428547002578,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "6",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "067E5519BA38F6D5D9E8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72647671462076,
+                    37.97408970400748,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "7",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "06FAE6D89238F6D617F4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72629149555687,
+                    37.97426961196874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "8",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "012887310F38F6D63BB1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72624610284532,
+                    37.97444738765626,
+                    -1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "9",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0D382035CA38F6D65BDC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72590765020723,
+                    37.9747636288952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "10",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0722B3E65638F6D6BA10"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72599854242899,
+                    37.9744775854874,
+                    -2.121972597635136e-9
+                ]
+            },
+            "properties": {
+                "name": "11",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09794FB75A38F6D6D40B"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72540014088346,
+                    37.97468635089169,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "12",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09E899D61838F6D6EE24"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72528634569897,
+                    37.97441435157042,
+                    1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "13",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0E2AF471CB38F6D7067E"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72538576330769,
+                    37.97523563362468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "14",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "096727B26638F6D7482C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72523075008707,
+                    37.9753133251846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "15",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "08B633417E38F6D762AC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72484022902792,
+                    37.97456130957699,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "16",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "01AC61E92938F6D7B5E0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72486575205681,
+                    37.97420438764658,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "17",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "05CC6C950E38F6D7D65C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72520314083602,
+                    37.97353337367374,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "18",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0CB1AAA6AF38F6D82A68"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72555493818857,
+                    37.97323784475484,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "19",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "092BB4952C38F6D84C21"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72462668141511,
+                    37.97285870493209,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "20",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0B346B3A6C38F6D98A7C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72582043172233,
+                    37.97305108718351,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0C3B2DF68638F6D9BFFF"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72714146391611,
+                    37.97314260292175,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "22",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0A51830D0D38F6D9EEEF"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72696062525552,
+                    37.97335271375281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "23",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0F9972543638F6DA0521"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72197242649659,
+                    37.97289657953321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "24",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "08FE312F4438F6DAD9E4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72618369864128,
+                    37.97273070240082,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "25",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0201D5117D38F6DB2ED8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72640622902745,
+                    37.97280735531229,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "26",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09A70A07B438F6DB4B4C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72659777583331,
+                    37.97284397059826,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "27",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0E092B6C1838F6DB6A8F"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72665937355631,
+                    37.97282814507034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "28",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0C7FAEFB4638F6DB85D3"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72549653375508,
+                    37.97259332277047,
+                    -1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "29",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "03BA1FE26B38F6DBB6E8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72477432973428,
+                    37.97381947190517,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "30",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0C60EBA7B538F6E7F140"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72489834527769,
+                    37.97382387071867,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "31",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "05F19C362A38F6E80E47"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72670584956324,
+                    37.97415522492069,
+                    -1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "32",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "097DCC051A38F6E9C3C4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72548882917905,
+                    37.97356637916575,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "33",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0758AC248C38F6E9EEDC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7259204230823,
+                    37.97351791744125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "34",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "08C9ED72AA38F6EA13AC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72553411769746,
+                    37.97562787133228,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "35",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0BEEE93F0838F6EA750C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72536802015107,
+                    37.97394019789276,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "36",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "028248A28E38F6EEA5AE"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72295831233722,
+                    37.97533458222527,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "51",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09F27CF3BB38F6F03657"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7229895787198,
+                    37.97519286664041,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "52",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0D9669F3EC38F6F0698B"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72231219607079,
+                    37.97494109794263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "53",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "022FCD747D38F6F0A8F4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72246675920688,
+                    37.97488183567503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "54",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "07A630348A38F6F0C1A0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72275372270236,
+                    37.97489793001593,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "55",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0168E50A3038F6F0F9BF"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72233063666696,
+                    37.97469714221373,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "56",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "00B04D023D38F6F1368E"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72256988680842,
+                    37.97494048103306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "57",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "05CA88AE8138F6F154A0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72326410161731,
+                    37.97523167862447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "58",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0D7FCFF72538F6F17A00"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72268667418982,
+                    37.97513685340234,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "59",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "05DB7DD4B538F6F19394"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72389929264287,
+                    37.97583311664774,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "60",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "08556D822B38F6F2CCFC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72410120731475,
+                    37.97535787637799,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "61",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "08714C8D2138F6F30197"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72404609677033,
+                    37.97531008302079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "62",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "081778FF7938F6F31467"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72452757300205,
+                    37.97506133660892,
+                    -1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "63",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "072399662838F6F33408"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72445674389851,
+                    37.97507994187699,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "64",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "07EFE13FD038F6F35163"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72421204086,
+                    37.97497108144302,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "65",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "02B68ED4FC38F6F36A51"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7240720223863,
+                    37.97474028182311,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "66",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0217F78AF838F6F39DB0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72436969610578,
+                    37.97554940156892,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "67",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0B83A13B2C38F6F3DBCC"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72467850007555,
+                    37.97464973845481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "68",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0A5B537FC138F6F58A50"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72443966672837,
+                    37.97288667096489,
+                    -1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "69",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0DD88AAC0938F6F5D137"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72353412190332,
+                    37.97315113031898,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "70",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "007618FA5938F6F5FCD8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72477546382418,
+                    37.97304818539245,
+                    -1.414648398423424e-9
+                ]
+            },
+            "properties": {
+                "name": "71",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0025A4D21838F6F6810F"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72462086905651,
+                    37.97387489906873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "72",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09DDE84A4238F6F6A9BF"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72444535654824,
+                    37.97409690519414,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "73",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0893D7793738F6F6C11C"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72290364849916,
+                    37.97465574052333,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "74",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0CBAC71DEE38F6F73A68"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72148155666079,
+                    37.97299643256829,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "75",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "017395443F38F6F8A0E7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72153595921559,
+                    37.97297606842817,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "76",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0EAEA2840038F6F8BC40"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72142587773912,
+                    37.97517554214895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "77",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0D6708207F38F6F8EFF0"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72145565905138,
+                    37.9755621513893,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "78",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "019ECE435538F6F90B58"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72144799798046,
+                    37.97550401620338,
+                    -7.073241992117119e-10
+                ]
+            },
+            "properties": {
+                "name": "79",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "08AF1E55E938F6F91C67"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72146781330292,
+                    37.97294505067896,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "80",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0099B78BFA38F6F97236"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72382798543585,
+                    37.97419254361396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "82",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "01D8DB19FD38F6FD0D08"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72456097244464,
+                    37.9733779424908,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "83",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "09D2BD127F38F6FD3B10"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72408056380457,
+                    37.97300376971412,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "84",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "080369B98638F6FD6273"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72296216361777,
+                    37.97341589115553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "85",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0BC5B0383F38F6FD90FF"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72362475759935,
+                    37.97389944428514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "86",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "03684A182738F6FDBADB"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72278788502599,
+                    37.97406153545603,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "87",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "07CD9DBA8438F6FDDB04"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72185905448201,
+                    37.97396161873164,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "88",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "03A95A928838F6FE048E"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.72135361776553,
+                    37.97387815090161,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "90",
+                "styleUrl": "#__managed_style_0DBBD3A04338E3725A94",
+                "fill-opacity": 0.25098039215686274,
+                "fill": "#ffffff",
+                "stroke-opacity": 1,
+                "stroke": "#fbc02d",
+                "stroke-width": 2,
+                "icon-offset": [
+                    64,
+                    128
+                ],
+                "icon-offset-units": [
+                    "pixels",
+                    "insetPixels"
+                ],
+                "icon": "https://earth.google.com/earth/document/icon?color=1976d2&id=2000&scale=4"
+            },
+            "id": "0BCB0C864638F6FE1EEE"
+        }
+    ]
+}
