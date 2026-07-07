@@ -48,11 +48,16 @@
   }).addTo(map); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
   controlLayers.addBaseLayer(light, 'Carto Light basemap');
 
+  var streetmap = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  controlLayers.addBaseLayer(streetmap, 'Open Street Map');
+
   /* Stamen colored terrain basemap tiles with labels */
   var messinesi = L.tileLayer('https://mapwarper.net/maps/tile/93674/{z}/{x}/{y}.png', {
     attribution: 'map layer created by Maria and Bryan with mapwarper.net.'
   }); // EDIT - insert or remove ".addTo(map)" before last semicolon to display by default
-  controlLayers.addBaseLayer(messinesi, 'Messinesi georeferenced map');
+  controlLayers.addOverlay(messinesi, 'Messinesi overlay');
 
   // see more basemap options at https://leaflet-extras.github.io/leaflet-providers/preview/
 
